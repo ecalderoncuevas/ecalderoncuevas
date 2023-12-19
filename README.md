@@ -1,12 +1,20 @@
 
-<img src="foto gothub.png">
+<img src="https://github.com/ecalderoncuevas/ecalderoncuevas.github.io/blob/main/foto%20gothub.png">
 
 # **Eduardo Calderón Cuevas**
-## Objetivo Profesional
-Tengo nociones de usuario en Cisco, en Wireshark y en la suite ofimática
-de Office 365. Como también, un certificado MOS Excel.
-Mi objetivo se centra en trabajar en el área de redes y también en el de la
-programación
+## Conocimientos
+• Informática y Hardware
+En todo lo que llevo de año en el IFP he aprendido mucho y tengo
+conocimientos en sistemas Windows y Linux (como Ubuntu), arranque
+dual con más de dos sistema operativos (Ventoy) a nivel usuario, tal
+como redes, diagramas de redes en cisco, direcciones IP, subredes o
+vlans. Así mismo en hardware, he aprendido a desmontar Pc o All in
+one, conocimientos sobre la BIOS, mantenimiento y diagnósticos. Además en mi 
+segundo año aprendí varios conocimientos útlies y divertidos, como configurar
+un DHCP, DNS, Active Direcotry (AD) en windows server y ubuntu server con un servicio ftp
+además del manejo de la interfaz de OpenKm. Y un proyecto de Arduino con su respectivo código
+(Arduino IDE, C++) su y máqueta junto la creación de una página web con práctias documentadas
+en la plataforma wix. 
 
 ## Formación
 ### 2022 ESO
