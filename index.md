@@ -1,4 +1,4 @@
-<img src ="https://github.com/ecalderoncuevas/ecalderoncuevas.github.io/blob/main/foto%20gothub.png">
+<img src ="foto gothub.png">
 
 # **Eduardo Calderón Cuevas**
 ## Conocimientos
